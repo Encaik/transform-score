@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@encaik/abc": "^0.0.3",
+    "@encaik/abc": "^0.0.4",
+    "abcjs": "^6.1.0",
     "autoprefixer": "^10.4.8",
     "monaco-editor": "^0.34.0",
     "postcss": "^8.4.16",
