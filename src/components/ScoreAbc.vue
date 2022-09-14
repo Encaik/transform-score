@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps,onMounted,watch,ref } from "vue";
+import { onMounted,watch,ref } from "vue";
 import abcjs from "abcjs";
 
 let props = defineProps({
